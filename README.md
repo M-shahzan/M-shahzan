@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:22D3EE&height=200&section=header&text=Mohammed%20Shahzan%20Armar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final-Year%20Data%20Science%20Student%20%7C%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://portfolio.m-shahzan106.workers.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+explainable+AI+for+healthcare+%26+edge+devices;Multi-task+deep+learning+%C2%B7+Grad-CAM+%C2%B7+Edge+AI;Currently+leading+Team+Dcoders+for+SIH+2026" alt="Typing SVG"/>
-</a>
+<p>
+Building explainable AI for healthcare and edge devices — multi-task deep learning, Grad-CAM, and on-device computer vision.
+</p>
 
 <br/>
 
-<a href="https://portfolio.m-shahzan106.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-portfolio.m--shahzan106.workers.dev-22D3EE?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohammed-shahzan-armar-2ab1a82a4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shahzanarmar01@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://m-shahzan.github.io/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-shahzan-armar-2ab1a82a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shahzanarmar01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -23,7 +23,7 @@ I'm a final-year **B.E. in Computer Science and Engineering (Data Science)** stu
 ```yaml
 current_focus:
   - 🔬 RetinaXAI: Multi-task diabetic retinopathy & DME detection (Grad-CAM explainability)
-  - 🚀 SightLite: On-device visual perception for SIH 2026 (SIH26171, backed by ISRO) — leading Team Dcoders
+  - 👁️ SightLite: On-device visual perception system for lightweight browser agents
   - 📈 Structured ML curriculum: classical models → gradient boosting → applied deployment
   - 🌱 Currently learning: XGBoost, regression modeling, MLOps fundamentals
 ```
@@ -135,6 +135,14 @@ Random Forest + KNN + weighted scoring engine
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-shahzan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=22D3EE&text_color=F1F5F9" alt="Top Languages"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/M-shahzan/M-shahzan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
 <br/>
