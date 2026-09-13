@@ -28,7 +28,7 @@ current_focus:
   - 🌱 Currently learning: XGBoost, regression modeling, MLOps fundamentals
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:22D3EE&height=3&animation=fadeIn" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +73,7 @@ current_focus:
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:22D3EE&height=3&animation=fadeIn" width="100%"/>
 
 ## 🚩 Featured Projects
 
@@ -124,7 +124,7 @@ Random Forest + KNN + weighted scoring engine
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:22D3EE&height=3&animation=fadeIn" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -139,13 +139,6 @@ Random Forest + KNN + weighted scoring engine
 
 <br/>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/M-shahzan/M-shahzan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
-</div>
-
-<br/>
 
 <div align="center">
 
